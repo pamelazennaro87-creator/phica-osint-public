@@ -161,3 +161,114 @@ A supportive message can be as simple as:
 - [NCMEC Take It Down](https://takeitdown.ncmec.org/): for eligible images taken when the person was under 18. Do not download or share an image to use the tool; follow its on-device instructions.
 
 **Support is not the same as reporting.** A person may choose to contact a confidential support service without being ready to make a police report. Where there is immediate danger or a child at risk, urgent safeguarding and emergency channels take priority.
+
+
+## 11. Africa and Arab countries — regional reporting and survivor support
+
+**Coverage note:** Africa and the Arab world are not single jurisdictions. Police structures, criminal laws, language access, confidentiality and NGO capacity vary widely. The resources below are country-specific where possible. A web-reporting portal is not necessarily a counselling service, and an NGO is not necessarily a law-enforcement body.
+
+### Africa
+
+#### South Africa
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Non-consensual intimate images / harmful online content | [Film and Publication Board (FPB) complaints](https://complaints.fpb.org.za/) | Official complaints route. The South African Government states that the FPB can issue takedown notices where a complaint has merit. |
+| FPB hotline | **0800 148 148** | Hotline published by the South African Government for reporting harmful content, including non-consensual distribution of intimate content. |
+| WhatsApp reporting | **083 428 4767** | FPB WhatsApp channel published by the South African Government. |
+| Gender-based violence support | **0800 428 428** | GBV Command Centre. Verify current availability and service options on the official government/GBVCC channel. |
+| Child sexual abuse material | [FPB Hotline](https://fpbhotline.org.za/) | Specialist reporting route for online child sexual abuse material. Never download or forward the material. |
+
+#### Ghana
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Cybercrime and online abuse | **292** (call or SMS, within Ghana) | Ghana Cyber Security Authority reporting channel. The number is not guaranteed to work from outside Ghana. |
+| WhatsApp | **050 160 3111** | Ghana Cyber Security Authority reporting contact. |
+| Email | **report@csa.gov.gh** | Ghana Cyber Security Authority reporting contact. Confirm current details on [csa.gov.gh](https://www.csa.gov.gh/). |
+
+#### Kenya
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Gender-based violence / technology-facilitated abuse | **1195** | National GBV helpline. Kenya's Ministry of Gender describes support including psychosocial counselling and referrals; the service is described as operating day and night. |
+| Technology-facilitated gender-based violence | [National TFGBV reporting system](https://ogbv.gender.go.ke/) | Government reporting and referral information for doxxing, cyberstalking, non-consensual intimate-image sharing, sextortion and related abuse. |
+| Personal-data misuse | [Office of the Data Protection Commissioner](https://www.odpc.go.ke/) | Complaint route for misuse of personal data. This is not a substitute for reporting threats or criminal conduct to police. |
+
+#### Nigeria
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Online sexual abuse, intimate-image abuse and sextortion | [Action Against Child Sexual Abuse Initiative (ACSAI) reporting portal](https://www.acsaing.org/report.html) | Online reporting and assisted-reporting information. The organisation describes work on child sexual abuse material and reports involving intimate-image abuse and sextortion. Use the portal to confirm current contact and eligibility. |
+| Survivor support / digital safety | [TechHer](https://techherng.com/) | Support and resources for women in technology and digital safety; check its current service scope before referral. |
+| Child sexual exploitation | [INHOPE hotline directory](https://inhope.org/what-we-do/how-to-report) | Check for the current national hotline and its remit. |
+
+#### Morocco
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Suspected child sexual abuse material online | [Internet Watch Foundation — Morocco reporting portal](https://report.iwf.org.uk/ma) | Online reporting route listed in ICMEC's global directory. Use for suspected child sexual abuse imagery, not as a general counselling hotline. |
+| Women's rights and support | [MRAwomen](https://mrawomen.ma/) | Moroccan women's-rights organisation listed in the Revenge Porn Helpline's international support directory. Check directly for current services and referral options. |
+
+#### Malawi
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Legal and gender-justice support | [Gender and Justice Unit](https://www.genderandjustice.org/) | Organisation listed in international victim-support resources. Contact it to confirm whether it can assist with the specific type of online abuse and the person's location. |
+| Suspected child sexual abuse material online | [IWF — Malawi reporting portal](https://report.iwf.org.uk/mw) | Online reporting route listed in ICMEC's global directory. |
+
+#### Other African countries — child-protection reporting
+
+ICMEC's directory lists IWF reporting portals for a number of countries, including Angola, Burundi, Côte d'Ivoire, Democratic Republic of the Congo, Gambia, Liberia, Mauritius, Mozambique, Namibia, Senegal, Sierra Leone, Tunisia, Uganda, Zambia and Zimbabwe. Find the country-specific route through [ICMEC's Global Hotline Directory](https://www.icmec.org/hotlines-and-helplines/).
+
+These portals concern suspected child sexual abuse material. They are **not** general hotlines for adult intimate-image abuse, domestic violence or counselling.
+
+### Arab countries and Arabic-speaking communities
+
+#### Egypt
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Online harassment, blackmail and non-consensual image sharing | [Speak Up](https://speakupeg.com/helpline/) | Egyptian initiative listed by the Revenge Porn Helpline's international directory for support involving online harassment, blackmail, non-consensual image sharing and digital violence. Check the official page for current intake and contact details; do not rely on unverified phone numbers. |
+| Women's rights / survivor support | [Women of Egypt Network](https://womenofegyptnetwork.com/) | Listed in the international support directory. Confirm current service scope and safe contact methods directly. |
+
+#### Iraq
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Digital-rights support and reporting | [INSM for Digital Rights](https://insm-iq.org/) | Iraqi digital-rights organisation listed in international intimate-image-abuse support resources. Contact directly to confirm current support and reporting pathways. |
+| Digital-rights support | [Tech4Peace](https://t4p.co/) | Iraqi initiative listed in international support resources. Confirm current services and safe contact methods. |
+
+#### Iraqi Kurdistan
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Survivor support and protection services | [SEED Foundation](https://seedkurdistan.org/) | Organisation listed in international support resources. Contact directly to confirm availability, language support and safe referral options. |
+
+#### Palestine
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Women's support, including sexual exploitation and cyber exploitation | [SAWA — All the Women Together Today and Tomorrow](https://sawa.ps/) | Palestinian non-profit support organisation listed in the international victim-support directory. The directory lists **+972 2 241 8100** (Ramallah) and **+972 2 534 122** (Jerusalem); verify current numbers and safe calling options on the official site before use. |
+
+#### Morocco and Tunisia — child-protection reporting
+
+- [IWF Morocco portal](https://report.iwf.org.uk/ma)
+- [IWF Tunisia portal](https://report.iwf.org.uk/tn)
+
+These are for suspected child sexual abuse material. They are not substitutes for a local police report or a survivor-support service.
+
+#### Other Arab countries
+
+For countries where this directory does not yet have a verified specialist helpline, use the official national police or cybercrime reporting route and consult [ICMEC's Global Hotline Directory](https://www.icmec.org/reporting-mechanisms/) for child-protection mechanisms. Do not assume that a hotline in one Arab country serves another country. If contacting authorities could create a safety risk, seek confidential advice from a reputable local women's-rights or victim-support organisation first, where available.
+
+## 12. Safety note for cross-border referrals
+
+- Ask the survivor which language and contact method are safest. A phone call, SMS, email or web form may leave traces on a shared device.
+- Do not promise confidentiality unless the organisation itself explains its privacy policy and limits.
+- In countries where same-sex relationships or sexual expression are criminalised or heavily stigmatised, do not assume that contacting police is risk-free for every survivor. Offer neutral, specialist support options where available and let the survivor make informed choices, unless there is an immediate threat to life or a child at risk.
+- Toll-free numbers may only work domestically. Use the official website or a local trusted service when calling from abroad.
+- The IWF/INHOPE/ICMEC routes for child sexual abuse material should be used to report a URL or location, not to upload, forward or circulate the material.
+- Never publish a survivor's identity, location, phone number, intimate content or case details in this repository.
+
+**Editorial standard:** Add a phone number only when it appears on an official or directly responsible organisation's current page. If a reliable specialist organisation is known but no verified phone number is published, list its official website instead of guessing.
