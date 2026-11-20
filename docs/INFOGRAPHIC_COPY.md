@@ -32,7 +32,7 @@ la Repubblica reported these membership snapshots at noon and two hours later on
 
 ## Panel 3 — The critical distinction
 
-<big> SAME NAME ≠ SAME OPERATORS </big>
+**SAME NAME ≠ SAME OPERATORS**
 
 On 5 November 2026, a senior Italian Postal Police official told Open that reusing a known community name does not prove that the same administrators are behind a new group.
 
