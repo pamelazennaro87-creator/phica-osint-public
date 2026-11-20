@@ -76,3 +76,88 @@ This directory is a public-interest signposting resource, not legal advice and n
 **Maintenance rule:** Before each update or publication, check the official source for the number, operating hours, eligibility, geographic coverage and online reporting URL. Record the date checked. Do not copy a phone number from an unofficial directory if an official source is available.
 
 **Victims first. No reposting. No public identification.**
+
+
+## 8. Additional countries and survivor-support services
+
+The following contacts are included to make the directory more useful beyond the three countries covered above. **Check service eligibility and opening hours on the official page before calling.** Some services support residents only; international dialling and toll-free access may not work from abroad.
+
+### United Kingdom
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Intimate-image abuse support (adults 18+) | **0345 6000 459** — [Revenge Porn Helpline](https://revengepornhelpline.org.uk/how-can-we-help/how-to-get-in-touch/) | Specialist advice and help with image-based abuse for adults living in the UK. Published phone hours: Monday–Friday, 10:00–16:00, excluding bank holidays. Email: help@revengepornhelpline.org.uk. |
+| Police non-emergency | **101** — [Police.uk](https://www.police.uk/) | Contact police for non-emergency reporting in England and Wales. Use 999 for an emergency. |
+| Sexual violence support | [Rape Crisis England & Wales](https://rapecrisis.org.uk/) | Specialist support and local service directory. Use the website to find the appropriate service in your area. |
+
+### France
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Digital harassment and violence support | **3018** — [3018 / e-Enfance](https://e-enfance.org/numero-3018/) | Free, anonymous national service for victims of digital violence and harassment; can help with reporting and removal requests. The French public-service page lists availability 7 days a week, 09:00–23:00. |
+| Victim support and referral | **116 006** — [France Victimes](https://www.france-victimes.fr/) | Free victim-support and referral service. From outside metropolitan France, the French public-service page lists **+33 1 80 52 33 76**. |
+| Emergency police | **17** or **112** | Police emergency / European emergency number in France. |
+
+### Australia
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Image-based abuse reporting and removal | [eSafety Commissioner](https://www.esafety.gov.au/report) | Official online reporting for sharing or threats to share intimate images without consent, adult cyber abuse and other serious online harm. |
+| Sexual, domestic and family violence support | **1800 737 732** — [1800RESPECT](https://1800respect.org.au/) | National support service, available 24/7. Text: **0458 737 732**; online chat and video call are also available. |
+| Emergency | **000** | Triple Zero emergency services. |
+
+### Canada
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Youth intimate-image abuse support | [NeedHelpNow.ca](https://needhelpnow.ca/app/en/) | Practical help for youth dealing with the sharing of sexual pictures or videos, including steps to limit further spread and find support. |
+| Child sexual exploitation reporting | [Cybertip.ca](https://www.cybertip.ca/en/) | Canadian Centre for Child Protection's national tipline for reporting online sexual exploitation of children. |
+| Victim support | [Victim Services Directory](https://www.justice.gc.ca/eng/cj-jp/victims-victimes/vsd-rsv/index.html) | Government of Canada directory to find local victim services. |
+| Emergency | **911** | Emergency services in Canada. |
+
+### Denmark
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Digital abuse support | **28 83 40 70** — [StopChikane](https://stopchikane.nu/) | Guidance, removal/reporting information and confidential counselling for people experiencing digital abuse. Check the website for current hours and eligibility. |
+
+### Finland
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Support for women experiencing violence, including digital abuse | **0800 02400** — [Naisten Linja](https://naistenlinja.fi/) | Support and information for women experiencing violence. Check the official website for current service hours and language availability. |
+
+### Brazil
+
+| Need | Contact | What it is for |
+|---|---|---|
+| Online violence support | [SaferNet Brasil — Helpline](https://new.safernet.org.br/helpline) | Online guidance and support for people affected by digital violence. Use the official service page for current access and referral options. |
+| Women's violence support | **180** — [Central de Atendimento à Mulher](https://www.gov.br/mulheres/pt-br/ligue180) | Brazilian national women's support and reporting channel. Check official guidance for access from outside Brazil. |
+| Emergency police | **190** | Police emergency number in Brazil. |
+
+## 9. If you are supporting someone: a short, trauma-informed response
+
+A person experiencing image-based abuse may feel fear, shame, anger, panic or loss of control. A useful first response is calm, practical and non-judgmental.
+
+- **Believe and listen.** Do not interrogate, blame, minimise or ask why the person created or sent the image.
+- **Restore choice.** Ask what they need right now: to be heard, help documenting a threat, help contacting a service, or simply someone to stay with them.
+- **Do not circulate the material.** Never ask the person to send you the intimate image. Do not forward it to friends, group chats or this repository.
+- **Offer practical help without taking over.** You can help note URLs, account names, dates, threats and report references, if the person agrees.
+- **Avoid promising removal or prosecution.** Explain that specialist services and authorities can advise on available options, but outcomes and timelines vary.
+- **Consider immediate safety.** If there are threats of physical harm, stalking, coercive control, suicide risk or a minor in danger, contact emergency services or an appropriate crisis service.
+- **Respect confidentiality.** Do not publish the person's identity or discuss their case publicly without explicit consent.
+
+A supportive message can be as simple as:
+
+> “I’m sorry this is happening. It is not your fault. You do not have to deal with it alone. I can listen, help you find a confidential support service, or help you report it — but you decide what feels safest.”
+
+## 10. Global directories and further support
+
+- [eSafety Commissioner — Getting help outside Australia](https://www.esafety.gov.au/key-topics/image-based-abuse/getting-help-outside-australia): international signposting for people affected by intimate-image abuse.
+- [Cyber Civil Rights Initiative — International Victim Resources](https://cybercivilrights.org/intl-victim-resources/): country-specific specialist organisations and support contacts.
+- [ICMEC — Global Hotline and Helpline Directory](https://www.icmec.org/reporting-mechanisms/): national mechanisms for reporting online child sexual exploitation.
+- [INHOPE — Find a hotline](https://inhope.org/what-we-do/how-to-report): national hotlines for reporting suspected child sexual abuse material. Follow its guidance: report the URL; do not download, forward or email the material.
+- [StopNCII.org](https://stopncii.org/): for adults, creates a hash on the user's device for eligible intimate images/videos to help participating platforms detect matching uploads. It does not remove content from the whole internet.
+- [NCMEC Take It Down](https://takeitdown.ncmec.org/): for eligible images taken when the person was under 18. Do not download or share an image to use the tool; follow its on-device instructions.
+
+**Support is not the same as reporting.** A person may choose to contact a confidential support service without being ready to make a police report. Where there is immediate danger or a child at risk, urgent safeguarding and emergency channels take priority.
