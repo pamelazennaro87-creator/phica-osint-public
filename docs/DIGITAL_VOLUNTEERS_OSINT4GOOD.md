@@ -50,39 +50,77 @@ Guardian Group's volunteer page invites people with OSINT skills to support its 
 
 **Boundary:** Do not independently identify, contact, follow, expose or confront suspected traffickers or people who may be victims. Follow the organisation's vetting, safeguarding, confidentiality and referral procedures.
 
-### 2.3 OSINT Italia — social-impact OSINT
+### 2.3 CyberFox OSINT Team — anti-trafficking and missing-person deployments
 
-**Focus:** Promoting OSINT, information literacy, online privacy and social-benefit uses of open-source research in Italy.
+**Focus:** Volunteer OSINT teams supporting counter-human-trafficking work, missing and exploited-person cases, and law-enforcement operations in the United States.
 
-OSINT Italia describes a community of people from different professional backgrounds and an association oriented toward social-impact OSINT. Its website describes participation in international OSINT competitions, including Trace Labs events.
+CyberFox describes a staged model involving training, operational roles, screening, an interview and a volunteer agreement. It lists specialist roles beyond frontline research, including quality assurance, technical support, ethical-adherence and wellbeing support.
 
-- Official website: https://osintitalia.it/
+- OSINT Team: https://cyberfoxteam.com/osint-team
+- Contact listed by the organisation: OSINT4Good@cyberfoxteam.com
 
-**Relevance:** An Italian reference point for community learning and socially oriented OSINT.
+**Relevance:** One of the closest models to Project 1591 in this shortlist: trained volunteers, defined roles and deployments connected to real-world operations.
 
-### 2.4 Digital Resilience Project — cyber support for survivors
+**Caution:** The organisation's page describes work that may expose some volunteers to explicit and psychologically difficult material. It also references sock-puppet accounts and operational deployments. These are not activities for independent imitation; participation must remain inside the organisation's lawful authorisation, training, supervision and written rules. Confirm current deployment dates and eligibility directly.
+
+### 2.4 Innocent Lives Foundation — online child exploitation research
+
+**Focus:** Identifying online child exploitation risks and supporting child protection through a volunteer Predator Identification Team (PIT), alongside education and outreach roles.
+
+The foundation's Join Us page describes remote volunteer roles, including a PIT role for people with OSINT and research skills. It states that, at the time of review, PIT volunteers are accepted only from the United States and other G7 countries, and that applications do not guarantee acceptance.
+
+- Join the team: https://www.innocentlivesfoundation.org/join-us/
+- Official website: https://www.innocentlivesfoundation.org/
+
+**Relevance:** A structured child-protection organisation with a dedicated research team and explicit confidentiality expectations.
+
+**Eligibility note:** The published G7-country restriction may make the role geographically possible for an applicant resident in Italy, but acceptance is not guaranteed. Confirm current rules and role requirements directly before applying. The work may involve sensitive material; assess psychological readiness and safeguarding arrangements.
+
+### 2.5 Locate International — missing and unidentified people
+
+**Focus:** Volunteer-led work to locate missing people and help identify unidentified individuals, with the aim of providing answers to families.
+
+- Official website: https://locate.international/
+
+**Relevance:** A volunteer-powered investigative charity. It is relevant to the wider digital-volunteering ecosystem, although its mission is missing-person work rather than anti-trafficking or image-based abuse.
+
+**Verification note:** Check current volunteer openings, training and case-handling arrangements on the organisation's own website.
+
+### 2.6 Amnesty Decoders — guided digital research
+
+**Focus:** A global community of digital volunteers who assist Amnesty International researchers through guided micro-tasks involving images, documents and information.
+
+- Volunteer platform: https://decoders.amnesty.org/
+- Amnesty International: https://www.amnesty.org/
+
+**Relevance:** A lower-barrier model of collective digital research for human-rights investigations. Tasks are project-based and guided; this is not an open invitation to independently investigate individuals or cases.
+
+**Availability note:** Projects open periodically. Registration does not mean a project is currently accepting contributions.
+
+### 2.7 Digital Resilience Project — cyber support for survivors
 
 **Focus:** Volunteer cyber and intelligence expertise supporting people affected by technology-facilitated abuse.
 
 The organisation describes volunteer roles covering mobile-device security, home networks, IoT and vehicle security, OSINT, intake and triage, and digital-safety education.
 
 - Volunteer programme: https://www.digitalresilienceproject.org/volunteer/
+- OSINT volunteer roles: https://www.digitalresilienceproject.org/osint-positions/
 - Official website: https://www.digitalresilienceproject.org/
 
 **Relevance:** Particularly close to the survivor-safety dimension of this repository: digital exposure, possible monitoring, account/device safety and practical support.
 
-**Geographic note:** The programme presents itself as Australia-focused. Do not imply that its services are available in Italy or worldwide unless the organisation confirms this directly.
+**Geographic note:** The programme describes national volunteer roles and Australia-focused support. Do not imply that its services are available in Italy or worldwide unless the organisation confirms this directly.
 
-### 2.5 Bellingcat and public-interest OSINT communities
+### 2.8 Bellingcat and public-interest OSINT communities
 
 **Focus:** Open-source investigations, verification, geolocation and accountability reporting.
 
-Bellingcat is a major public-interest OSINT reference. Its work and volunteer-facing community activity can help researchers learn transparent verification methods. It should be described as an investigative organisation and learning reference, not as a victim-support hotline or a guaranteed open volunteer programme.
+Bellingcat is a major public-interest OSINT reference. Its work and learning resources can help researchers learn transparent verification methods. It should be described as an investigative organisation and learning reference, not as a victim-support hotline or a guaranteed open volunteer programme.
 
 - Official website: https://www.bellingcat.com/
 - First Steps to Getting Started in Open Source Research: https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/
 
-### 2.6 ObSINT — public-interest OSINT guidelines
+### 2.9 ObSINT — public-interest OSINT guidelines
 
 **Focus:** Ethical and methodological standards for public-facing OSINT investigations.
 
@@ -91,8 +129,6 @@ The ObSINT guidelines were developed by organisations working in public-interest
 - Guidelines: https://obsint.eu/guidelines-for-public-interest-osint-investigations/
 
 **Relevance:** A useful standards reference for this repository's evidence handling, privacy safeguards, proportionality and publication decisions. It is a guidance resource, not a volunteer-response service.
-
----
 
 ## 3. What #OSINT4Good means here
 
