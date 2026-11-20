@@ -18,6 +18,7 @@ This repository does not host, reproduce, link to, or help locate intimate image
 - [International Reporting Contacts](docs/REPORT_ABUSE_CONTACTS.md) — emergency numbers, police reporting, victim support and content-removal resources by country.
 - [English Infographic Copy](docs/INFOGRAPHIC_COPY.md) — publication-ready text, dated figures, source notes and accessibility/safety rules.
 - [International Comparative Cases](docs/INTERNATIONAL_COMPARATIVE_CASES.md) — evidence-led comparison of IsAnyoneUp, Nth Room, South Korean deepfake channels, MaskPark and Celebgate.
+- [Digital Volunteers & #OSINT4Good](docs/DIGITAL_VOLUNTEERS_OSINT4GOOD.md) — Trace Labs, Guardian Group Project 1591® / PURSUIT®, OSINT Italia, Digital Resilience Project, Bellingcat and public-interest OSINT safeguards.
 
 ## 1. Executive assessment
 
