@@ -15,6 +15,7 @@ This repository does not host, reproduce, link to, or help locate intimate image
 
 - [Claim-level Evidence Ledger](docs/EVIDENCE_LEDGER.md) — source-by-source support, confidence levels, contradictions and excluded claims.
 - [Victim Support & Reporting (Italy)](docs/VICTIM_SUPPORT.md) — practical steps and official reporting channels.
+- [International Reporting Contacts](docs/REPORT_ABUSE_CONTACTS.md) — emergency numbers, police reporting, victim support and content-removal resources by country.
 - [English Infographic Copy](docs/INFOGRAPHIC_COPY.md) — publication-ready text, dated figures, source notes and accessibility/safety rules.
 - [International Comparative Cases](docs/INTERNATIONAL_COMPARATIVE_CASES.md) — evidence-led comparison of IsAnyoneUp, Nth Room, South Korean deepfake channels, MaskPark and Celebgate.
 
