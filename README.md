@@ -46,13 +46,12 @@ The case illustrates the resilience of image-based sexual abuse networks and the
 
 ### Primary figure identified by the press (September 2025)
 
-- **Full name**: Vittorio Vitiello
+- **Initials**: V.V.
 - **Age**: 45 (as of September 2025)
 - **Place of birth**: Pompei
-- **Residence (as reported)**: Florence, Rifredi area
 - **Company**: Sole administrator of **Lupotto Srl** (advertising and event organization company). Reported turnover approx. €150,000 in previous years.
 - **Online nicknames associated by media**: Phicamaster, Bossmiao
-- **Background notes from press**: Previous contact with Postal Police in 2019 regarding the same platform. Lived alone after separation (reported by neighbors and media).
+- **Background notes from press**: Previous contact with Postal Police in 2019 regarding the same platform.
 
 All details above are taken exclusively from published journalistic investigations (Repubblica, Corriere della Sera, Domani, and others).
 
@@ -80,7 +79,7 @@ This pattern is consistent with other image-based abuse communities observed in 
 - Change.org petition (hundreds of thousands of signatures)
 
 ### September 2025 – Identification and seizure
-- Repubblica (2 Sep 2025) – Identification of Vittorio Vitiello
+- Repubblica (2 Sep 2025) – Identification of the main administrator (V.V.)
 - Corriere della Sera / Corriere Fiorentino (2–3 Sep 2025)
 - Domani and other outlets confirming details and company information
 - Reports of site seizure by Postal Police / Rome Prosecutor
