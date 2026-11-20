@@ -191,7 +191,6 @@ The descriptions above are based primarily on the organisations' own public page
 - Trace Labs — rules and coach guidance: https://docs.tracelabs.org/
 - Guardian Group — volunteer opportunities and Project 1591® / PURSUIT®: https://guardiangroup.org/volunteer-opportunities/
 - UpStream — description of its OSINT-for-good work with Guardian Group and Trace Labs: https://www.upstreamintelinc.com/osint-for-good
-- OSINT Italia — community and social-impact OSINT: https://osintitalia.it/
 - Digital Resilience Project — volunteer roles: https://www.digitalresilienceproject.org/volunteer/
 - ObSINT — public-interest OSINT guidelines: https://obsint.eu/guidelines-for-public-interest-osint-investigations/
 - Bellingcat — research and learning resources: https://www.bellingcat.com/
