@@ -11,6 +11,12 @@ This repository does not host, reproduce, link to, or help locate intimate image
 
 ---
 
+## Repository guide
+
+- [Claim-level Evidence Ledger](docs/EVIDENCE_LEDGER.md) — source-by-source support, confidence levels, contradictions and excluded claims.
+- [Victim Support & Reporting (Italy)](docs/VICTIM_SUPPORT.md) — practical steps and official reporting channels.
+- [English Infographic Copy](docs/INFOGRAPHIC_COPY.md) — publication-ready text, dated figures, source notes and accessibility/safety rules.
+
 ## 1. Executive assessment
 
 The available public record supports three separate findings:
